@@ -1,4 +1,4 @@
-bash_fundamentals/dates_and_logs/date_log
+# bash_fundamentals/dates_and_logs/date_log
 
 This folder contains two files:
 
