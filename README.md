@@ -6,6 +6,7 @@ Folders in this repository
 - ### strings
   This folder contains bash files that perform string operations.
 
-- ### date
+- ### dates_and_logs
+  This folder contains files that perform date operations and create log files.
 
 
